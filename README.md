@@ -8,7 +8,7 @@ Boston Azure hosts many of its in-person events at the Microsoft New England AI 
 
 * Main signup form: <https://www.microsoftnewengland.com/nerd-ai/> (look for "RESERVATION REQUEST FORM" button down the page)
 
-Note that name of the facility now includes "AI" which emphasizes the focus on AI. The wording for reserving space for community events is also more limiting than it used to be - after clicking the "RESERVATION REQUEST FORM" button you get this popup - but there is still room for non-AI events (for example, "local technology companies" gets a mention in the [second-to-last bullet](## "Case by case requests for other non-profits, government groups, local technology companies, and university groups based on availability and subject matter"):
+Note that name of the facility now includes "AI" which puts more emphasis on AI. After clicking the "RESERVATION REQUEST FORM" button you get the following popup - but there is still room for non-AI events - for example, "local technology companies" gets a mention in the [second-to-last bullet](## "Case by case requests for other non-profits, government groups, local technology companies, and university groups based on availability and subject matter"):
 
 <img width="758" alt="image" src="https://github.com/user-attachments/assets/8ad00a30-d554-4737-9a72-c5088ec32abe">
 

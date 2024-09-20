@@ -12,6 +12,10 @@ Note that name of the facility now includes "AI" which puts more emphasis on AI.
 
 <img width="758" alt="image" src="https://github.com/user-attachments/assets/8ad00a30-d554-4737-9a72-c5088ec32abe">
 
+### Tips
+
+Once you submit the form there is no automated email reply. There is not SLA for hearing back. Microsoft events may be pending in same space, for example, which may need to resolve before you find out. Usually our events have been approved, but don't always know well in advance.
+
 ### Example Approval Email
 
 _If approved for the event, you will receive some instructions via email. 

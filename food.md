@@ -21,3 +21,6 @@ Example order for NERD in-person event with no breakfast, but caffeine and lunch
 2. Smoked Turkey (lunch bagel sandwich) x 10 @ $12 - https://www.areafour.com/
 3. Large Pizza with 
 4. Large Pizza with
+
+1. Coffee box - morning - from Starbucks via Uber Eats or Doordash (note the delivery app may not support orders totaling > $100)
+2. Coffee box - with lunch - https://www.areafour.com/

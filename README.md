@@ -4,6 +4,24 @@ Boston Azure hosts many of its in-person events at the Microsoft New England AI 
 
 ## Microsoft New England AI Conference Center (née New England Research and Development Center, or NERD for short)
 
+### Great Facility
+
+The facility is modern and comfortable and has great views of the Charles River and the City of Boston across the river. There is lots of room flexibility (classroom vs. theatre, with power as needed, etc.) and substantial capacity (100s) if needed.
+
+### Parking
+
+NERD is in Cambridge  is just across the Charles River from the city limits of Boston. It is conveniently accessible via public transportation and parking is usually abundant on nights and weekends (paid under the building is the easiest - but if you are willing to patrol for a spot you can often find free street parking). I am less familiar with the parking situation during work days.
+
+### Day of the Event - Solid Staff
+
+The crew we interface with at NERD is made up of friendly, helpful, capable people. Once we get to NERD there's rarely any issue.
+
+### List of Attendees Needed Well in Advance
+
+One of the biggest policy changes since before the pandemic is that now NERD requires a FINAL LIST of attendees a full week in advance of the event. This can be challenging! 
+
+It makes it less flexible as a community location since you don't get those who found it later in the cycle (or plans changed and now that could attend), and I can't take someone from work with me as my +1 at the last minute, and so forth. Further, waiting lists are also complicated and less useful since a late drop is hard to replace if it is within the final week because the final list of attendees was already submitted.
+
 ### Reserving Space for Events
 
 * Main signup form: <https://www.microsoftnewengland.com/nerd-ai/> (look for "RESERVATION REQUEST FORM" button down the page)
@@ -12,15 +30,31 @@ Note that name of the facility now includes "AI" which puts more emphasis on AI.
 
 <img width="758" alt="image" src="https://github.com/user-attachments/assets/8ad00a30-d554-4737-9a72-c5088ec32abe">
 
-### Tips
+And here is another version of the types of events they are willing host, this one from the Group Qualifications section of the [Event request page](https://www.microsoftnewengland.com/events-request/):
 
-Once you submit the form there is no automated email reply. There is not SLA for hearing back. Microsoft events may be pending in same space, for example, which may need to resolve before you find out. Usually our events have been approved, but don't always know well in advance.
+* _Artificial Intelligence, Data Science, Machine Learning, Computer Science, and Biomedical Research conferences_
+* _Local tech groups/meet-ups with a focus on Computer Science, Artificial Intelligence, Data Science, Machine Learning, and Biomedical Research_
+* _Local University conferences, hackathons, and meetups with a focus on Computer Science, Artificial Intelligence, Data Science, Machine Learning, and Biomedical Research_
+* _Groups that Microsoft supports, and which support our values, such as DigiGirlz, TEALS, Diversity in tech, STEM programming, etc._
+* _Case by case requests for other non-profits, government groups, local technology companies, and university groups based on availability and subject matter_
+
+Further must be open to public and free or nominal charge:
+
+* _All external events must be open to public registration/invitation (no team off-sites, board meetings, etc), and be free of charge. If there is a fee, it must be nominal (under $100), and only to recoup some operating expense for the event._
+
+### Advanced Registration
+
+Getting a Microsoft employee on the event team can help since the [Event request page](https://www.microsoftnewengland.com/events-request/) states: _Please note that we do not accept requests greater than 3 months in advance without a Microsoft employee on the planning committee of your event who is helping to plan, drive, and attend your event._
+
+Otherwise you are limited to booking three months in advance. This is usually reasonable and sufficient timing.
+
+### Expectations on Hearing Back
+
+Once you submit the form there is no automated email reply. There is not SLA for hearing back. Microsoft events may be pending in same space, for example, which may need to resolve before you find out. Usually our events have been approved, but don't always know well in advance, and many weeks can pass before we find out.
 
 ### Example Approval Email
 
-_If approved for the event, you will receive some instructions via email. 
-
-An example is provided below, though email addresses and names of staff members are redacted._
+_If approved for the event, you will receive some instructions via email. An example is provided below, though email addresses and names of staff members are redacted._
 
 Hello Bill Wilder,
 
@@ -102,5 +136,3 @@ At One Memorial Drive, guests are allowed to park in the garage located at One M
 All day parking is $27.00 on weekdays and $10.00 on weekends.
 
 If you wish to purchase parking validations for your guests please contact REDACTED NAME at REDACTED-EMAIL@example.com.
-
-

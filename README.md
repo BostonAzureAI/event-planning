@@ -24,7 +24,7 @@ It makes it less flexible as a community location since you don't get those who 
 
 ### Reserving Space for Events
 
-* Main signup form: <https://www.microsoftnewengland.com/nerd-ai/> (look for "RESERVATION REQUEST FORM" button down the page)
+* Main signup form: <https://microsoftnewengland.com/conference-center/> (look for "Reservation Request" button near top of the page)
 
 Note that name of the facility now includes "AI" which puts more emphasis on AI. After clicking the "RESERVATION REQUEST FORM" button you get the following popup - but there is still room for non-AI events - for example, "local technology companies" gets a mention in the [second-to-last bullet](## "Case by case requests for other non-profits, government groups, local technology companies, and university groups based on availability and subject matter"):
 

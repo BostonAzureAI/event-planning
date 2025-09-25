@@ -1,4 +1,11 @@
-# Food Mix
+# Providing Food
+
+Don't forget:
+
+1. Varied dietary needs - Vegan, Vegetarian, Halal, Kosher, and other less likely possibilities such as [Jain](https://en.wikipedia.org/wiki/Jain_vegetarianism)
+2. Be sure to get SUPPLIES with the food - plates, utensils, cups, napkins, coffee creamer, sugar, etc.
+
+## Food Mix
 
 Based on survey results referenced below, a food mix like the following is a good start:
 
@@ -15,7 +22,7 @@ Ratios of tea : coffee is around 25% tea : 75% coffee%.
 
 ## Example order - NERD Cambridge 2025
 
-Example order for NERD in-person event with no breakfast, but caffeine and lunch for 55 people (attendees and staff):
+Example order for NERD in-person event with no breakfast, but **caffeine and lunch for 55 people** (attendees and staff):
 
 1. Tuna Salad (lunch bagel sandwich) x 10 @ $12 - https://www.areafour.com/
 2. Smoked Turkey (lunch bagel sandwich) x 10 @ $12 - https://www.areafour.com/
@@ -36,6 +43,7 @@ Was just checking coffee pricing. For Starbucks, 96 oz for around $21, includes 
 https://www.starbucks.com/menu/product/873068655/hot?toCart=true
 
 ### Coffee Traveler - Pike Place® Roast
+
 A convenient carrier filled with 96 fl oz of our featured brewed medium roast coffee (equivalent of twelve 8 fl oz cups)—a perfect pick-me-up for meetings, picnics or whatever occasion calls for coffee.
 
 ## Suppliers that Support Delivery
@@ -45,4 +53,3 @@ A convenient carrier filled with 96 fl oz of our featured brewed medium roast co
 1. https://www.kendallhouseofpizzamenu.com/
 2. https://www.areafour.com/
 3. 
-
